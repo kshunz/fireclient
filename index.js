@@ -1,6 +1,6 @@
 const Client = require('./lib/client');
 
-class FireClient extends Client () {
+class FireClient extends Client {
 
 }
 
