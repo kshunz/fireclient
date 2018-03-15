@@ -1,2 +1,2 @@
-# fireclient
-Express/Event Emitter Interface Hybrid for Firebase Functions
+# DO NOT USE THIS YET
+> Still a work in progress - please ignore
